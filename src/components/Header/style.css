@@ -1,0 +1,12 @@
+h1 {
+    font-family: 'Playfair Display', serif;
+    color: #FFF;
+}
+
+a {
+    color: #FFF !important;
+}
+
+.active {
+    color: rgb(100, 99, 99) !important;
+}
