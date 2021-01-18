@@ -7,7 +7,7 @@ function Contact() {
             <h2 className="m-3">Contact</h2>
             {/* <!--form--> */}
             <div class="container" id="formContainer">
-                <form>
+                <form action="mailto:lindsaymorris813@gmail.com" method="post" enctype="text/plain">
                     {/* <!--Name--> */}
                     <div class="form-group">
                         <label for="formGroupExampleInput">Name</label>

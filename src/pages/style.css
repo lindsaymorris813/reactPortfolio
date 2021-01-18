@@ -9,3 +9,7 @@ h2 {
 #formContainer {
     max-width: 65%;
 }
+
+.card {
+    height: 500px
+}
