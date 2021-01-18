@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Alternative Fuel Finder App Project",
+        "image": "https://imgur.com/6P2v1cJ",
+        "usage": "A web App using multiple API's to generate data on local electric charging stations and alternative biofuel options based on a users current location. Upon entering your preferences and location, a modal will pop up displaying a map with markers of locations meeting that criteria, as well as a list of all locations and relavent information.",
+        "technologies": ["Bulma", "NREL.gov API", "Google Maps API", "JQuery"],
+        "deployedSite": "https://grantf12.github.io/Alternative_Fuel_Finder/",
+        "gitHubRepo": "https://github.com/grantf12/Alternative_Fuel_Finder"
+    },
+    {
+        "title": "Productivity Planner Project",
+        "image": "https://imgur.com/9peTaXQ",
+        "usage": "The Productivity Planner provides users with the option to list their goals, plan their days with an hourly and daily calendar, track their progress, take notes, and view and share their progress with other users in their community. All of this is done using a SQL database. The planner also has some encouraging quotes and an aestheticly pleasing color scheme to help the user feel confident and focused on being productive.",
+        "technologies": ["Bootstrap", "Express", "Handlebars", "Luxon", "Passport", "ESLint"],
+        "deployedSite": "https://obscure-lake-47661.herokuapp.com",
+        "gitHubRepo": "https://github.com/averyjbrown2/Project-2"
+    },
+    {
+        "title": "Employee Directory React App",
+        "image": "https://imgur.com/T0UzG0M",
+        "usage": "The Employee Directory React App allows the user to search their entire employee directory at once to allow for quick access to employee information. It is sortable via column headings and searchable based on all employee data.",
+        "technologies": ["React", "Axios", "Bootstrap", "GitHub Pages", "React-Dom"],
+        "deployedSite": "https://lindsaymorris813.github.io/employeeDirectory/",
+        "gitHubRep": "https://github.com/lindsaymorris813/employeeDirectory"
+    },
+    {
+        "title": "Budget Tracker",
+        "image": "https://imgur.com/lZmBjwQ",
+        "usage": "The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.",
+        "technologies": ["Express", "Mongoose", "Compression", "Morgan", "Lite-Server"],
+        "deployedSite": "https://guarded-fjord-50270.herokuapp.com/",
+        "gitHubRep": "https://github.com/lindsaymorris813/budgetTracker"
+    },
+    {
+        "title": "Burger App",
+        "image": "https://imgur.com/mUcVzuZ",
+        "usage": "An order logger with MySQL, Node, Express, Handlebars and a homemade ORM. Follows the MVC design pattern; uses Node and MySQL to query and route data in your app, and Handlebars to generate HTML",
+        "technologies": ["MySQL", "Express", "Handlebars", "Node"],
+        "deployedSite": "https://radiant-forest-01749.herokuapp.com/",
+        "gitHubRep":"https://github.com/lindsaymorris813/burger"
+    },
+    {
+        "title": "OpenWeatherMap API Forecast App",
+        "image": "https://imgur.com/AxuRZaz",
+        "usage": "A Web App using OpenWeatherMap's API to produce current conditions and five day forecasts for user input city.  Uses local storage to save last search and buttons prepend in sidebar to display recent searches.",
+        "technologies": ["Bootstrap", "OpenWeatherMap API", "JQuery"],
+        "deployedSite": "https://lindsaymorris813.github.io/weatherDashboard/",
+        "gitHubRep": "https://github.com/lindsaymorris813/weatherDashboard"
+    }
+]
