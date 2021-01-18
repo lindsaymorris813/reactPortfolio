@@ -24,7 +24,7 @@ function Contact() {
                         <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Message"></textarea>
                     </div>
                     {/* <!--Submit button--> */}
-                    <button type="submit" class="btn btn-primary">Submit</button>
+                    <button type="submit" class="btn btn-secondary" id="submitBtn">Submit</button>
                 </form>
             </div>
         </div>
