@@ -5,7 +5,7 @@ import "./style.css";
 function Header() {
     const location = useLocation();
     return (
-        <div className="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div className="navbar navbar-expand-lg">
             <ul className="nav nav-tabs mr-auto">
                 <li className="nav-item">
                     <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>

@@ -56,5 +56,5 @@ N/A
 
 ## QUESTIONS
 
-GitHub: lindsaymorris813
+GitHub: [lindsaymorris813](https://github.com/lindsaymorris813)  
 Email: lindsaymorris813@gmail.com
