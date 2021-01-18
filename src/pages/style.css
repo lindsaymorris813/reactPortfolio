@@ -5,3 +5,7 @@ h2 {
 #personal-photo {
     max-width: 250px;
 }
+
+#formContainer {
+    max-width: 65%;
+}
