@@ -1,12 +1,16 @@
 h1 {
     font-family: 'Playfair Display', serif;
-    color: #FFF;
+    color: #ececec;
 }
 
 a {
-    color: #FFF !important;
+    color: #ececec !important;
 }
 
 .active {
-    color: rgb(100, 99, 99) !important;
+    color: #495867 !important;
+}
+
+#customNavBar {
+    background-color: #495867;
 }

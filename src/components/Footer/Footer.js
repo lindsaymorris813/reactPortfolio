@@ -3,7 +3,7 @@ import "./style.css";
 
 function Footer() {
     return (
-        <footer className="footer fixed-bottom bg-dark">
+        <footer className="footer fixed-bottom" id="customFooter">
                 <div class="row m-3">
                     {/* <!--github icon and link--> */}
                     <span class="m-auto m-3">

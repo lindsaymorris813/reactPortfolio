@@ -1,9 +1,9 @@
 img {
-    height: 250px;
+    max-width: 100%;
 }
 h3 {
     font-family: 'Playfair Display', serif;
-    color: white;
+    color: #ececec;
 }
 h5 {
     font-family: 'Playfair Display', serif;
@@ -11,4 +11,11 @@ h5 {
 .scroll {
     max-height: 500px;
     overflow-y: auto;
+}
+.cardColor {
+    background-color: #495867!important;
+}
+
+.cardBorder {
+ border: none;
 }

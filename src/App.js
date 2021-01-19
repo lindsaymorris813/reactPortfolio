@@ -10,9 +10,8 @@ import Contact from "./pages/Contact";
 function App() {
   return (
     <Router>
-      <div className="App">
         <Header />
-        <div className="container">
+        <div className="container" id="bodyCtnr">
         <Switch>
           <Route exact path ="/" component={About} />
           <Route exact path ="/about" component={About} />
@@ -21,7 +20,6 @@ function App() {
         </Switch>
         </div>
         <Footer />
-      </div>
     </Router>
   );
 }

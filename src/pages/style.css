@@ -13,3 +13,12 @@ h2 {
 .card {
     height: 500px
 }
+
+.btn {
+    background-color: #495867 !important;
+    color: #ececec;
+}
+body {
+    height: auto;
+    background-color: #ececec;
+}

@@ -4,11 +4,11 @@ import "./style.css";
 function Projects({ title, key, image, usage, technologies, deployedSite, gitHubRepo }) {
     return (
         <div className="col-6">
-            <div className="card m-2 shadow">
-                <div className="card-header bg-dark">
+            <div className="card m-2 shadow cardBorder">
+                <div className="card-header cardColor">
                     <h3>{title}</h3>
                 </div>
-                <div className="card-body clearfix scroll">
+                <div className="card-body clearfix scroll text-center">
                     <a href={ image } target="_blank" rel="noreferrer"><img src={image} alt={key} /></a>
                     <p>Click to View Larger</p>
                     <div className="container text-left">

@@ -1,7 +1,11 @@
 i {
-    color: #FFF;
+    color: #ececec;
 }
 
 i:hover {
-    color: rgb(100, 99, 99);
+    color: #C18C5D;
+}
+
+#customFooter {
+    background-color: #495867;
 }
